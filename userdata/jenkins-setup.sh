@@ -1,3 +1,4 @@
+#command installing Jenkins, install jdk & maven to build artifact
 #!/bin/bash
 sudo apt update
 sudo apt install openjdk-11-jdk -y
